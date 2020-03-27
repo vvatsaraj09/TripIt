@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="project/app" />
+      <module fileurl="file://$PROJECT_DIR$/autoimageslider/autoimageslider.iml" filepath="$PROJECT_DIR$/autoimageslider/autoimageslider.iml" group="project/autoimageslider" />
+      <module fileurl="file://$PROJECT_DIR$/autoimageslider2/autoimageslider2.iml" filepath="$PROJECT_DIR$/autoimageslider2/autoimageslider2.iml" group="project/autoimageslider2" />
+      <module fileurl="file://$PROJECT_DIR$/autoimageslider3/autoimageslider3.iml" filepath="$PROJECT_DIR$/autoimageslider3/autoimageslider3.iml" group="project/autoimageslider3" />
+      <module fileurl="file://$PROJECT_DIR$/project.iml" filepath="$PROJECT_DIR$/project.iml" group="project" />
+    </modules>
+  </component>
+</project>
